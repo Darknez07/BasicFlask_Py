@@ -1,7 +1,7 @@
 ### A food Calculator App
-### To be published in heroku
 ##### Enjoyed as the start point Journey
-##### Created by Darknez07
+##### Published on heroku
 [Food Tracking app](https://fathomless-shore-26604.herokuapp.com/)
+##### Created by Darknez07
 <br>//TODO<br>
 Add functionality to mail When calories crosses a mark

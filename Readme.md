@@ -5,3 +5,4 @@
 ##### Created by Darknez07
 <br>//TODO<br>
 Add functionality to mail When calories crosses a mark
+##Note:-> Code and publication aren't synced
